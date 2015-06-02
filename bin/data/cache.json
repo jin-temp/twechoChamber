@@ -1,0 +1,4330 @@
+{
+   "search_metadata" : {
+      "completed_in" : 0.127,
+      "count" : 30,
+      "max_id" : 605529978596294656,
+      "max_id_str" : "605529978596294656",
+      "next_results" : "?max_id=605529897793138687&q=%22gun%22%20OR%20%22gun%20control%22%20OR%20%22right%20to%20carry%22%20OR%20%22NRA%22&count=30&include_entities=1",
+      "query" : "%22gun%22+OR+%22gun+control%22+OR+%22right+to+carry%22+OR+%22NRA%22",
+      "refresh_url" : "?since_id=605529978596294656&q=%22gun%22%20OR%20%22gun%20control%22%20OR%20%22right%20to%20carry%22%20OR%20%22NRA%22&include_entities=1",
+      "since_id" : 0,
+      "since_id_str" : "0"
+   },
+   "statuses" : [
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:51 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "glennbeck.com/2015/06/01/vin…",
+                  "expanded_url" : "http://www.glennbeck.com/2015/06/01/vince-vaughn-unloads-on-gun-activists/",
+                  "indices" : [ 38, 60 ],
+                  "url" : "http://t.co/6MhBkrDDBL"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529978596294656,
+         "id_str" : "605529978596294656",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+         "text" : "Vince Vaughn unloads on gun activists http://t.co/6MhBkrDDBL",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Jul 14 20:33:34 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 39,
+            "following" : false,
+            "friends_count" : 80,
+            "geo_enabled" : false,
+            "id" : 2646284418,
+            "id_str" : "2646284418",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 2,
+            "location" : "Las Cruces New Mexico",
+            "name" : "Chris Biad",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2646284418/1405570727",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/494870390158528512/c93AqgWZ_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/494870390158528512/c93AqgWZ_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cbiad",
+            "statuses_count" : 189,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:51 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 3104981082,
+                  "id_str" : "3104981082",
+                  "indices" : [ 0, 12 ],
+                  "name" : "한 건",
+                  "screen_name" : "gunfor_hyun"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529976016764928,
+         "id_str" : "605529976016764928",
+         "in_reply_to_screen_name" : "gunfor_hyun",
+         "in_reply_to_status_id" : 605529812824825856,
+         "in_reply_to_status_id_str" : "605529812824825856",
+         "in_reply_to_user_id" : 3104981082,
+         "in_reply_to_user_id_str" : "3104981082",
+         "is_quote_status" : false,
+         "lang" : "ko",
+         "metadata" : {
+            "iso_language_code" : "ko",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "@gunfor_hyun (쪽) 사랑해요 건아.",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Mar 23 15:31:35 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "건이만을 위한 스물일곱 작가봇",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 132,
+            "follow_request_sent" : false,
+            "followers_count" : 1,
+            "following" : false,
+            "friends_count" : 8,
+            "geo_enabled" : false,
+            "id" : 3104973582,
+            "id_str" : "3104973582",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ko",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "하 현",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/580029328966041600/os1jHKhF_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/580029328966041600/os1jHKhF_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "hyunfor_gun",
+            "statuses_count" : 2625,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:50 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529972455915520,
+         "id_str" : "605529972455915520",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "The NRA is fucking evil. There. I said it.",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Nov 22 05:13:11 +0000 2009",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Writer/Speaker/Activist Living in a reality based world where corporations are not people and never were Official FB http://t.co/alJ5Uw3NSt",
+            "entities" : {
+               "description" : {
+                  "urls" : [
+                     {
+                        "display_url" : "tinyurl.com/89dhubo",
+                        "expanded_url" : "http://tinyurl.com/89dhubo",
+                        "indices" : [ 117, 139 ],
+                        "url" : "http://t.co/alJ5Uw3NSt"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2680,
+            "follow_request_sent" : false,
+            "followers_count" : 14894,
+            "following" : false,
+            "friends_count" : 1230,
+            "geo_enabled" : true,
+            "id" : 91729248,
+            "id_str" : "91729248",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 677,
+            "location" : "NYC",
+            "name" : "Jesse LaGreca",
+            "notifications" : false,
+            "profile_background_color" : "022330",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/436596978164568064/qmywFNCT.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/436596978164568064/qmywFNCT.jpeg",
+            "profile_background_tile" : true,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/454268868375379968/Rogun1cr_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/454268868375379968/Rogun1cr_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "C0DFEC",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JesseLaGreca",
+            "statuses_count" : 44548,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:49 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "vine.co/v/ehqlOtMVnEU",
+                  "expanded_url" : "http://vine.co/v/ehqlOtMVnEU",
+                  "indices" : [ 71, 93 ],
+                  "url" : "http://t.co/sb2JYZf23T"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 1370986902,
+                  "id_str" : "1370986902",
+                  "indices" : [ 3, 19 ],
+                  "name" : "WSHH FANS",
+                  "screen_name" : "WORIDSTARHlPHOP"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529970836840448,
+         "id_str" : "605529970836840448",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 3047,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun May 31 15:25:00 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "vine.co/v/ehqlOtMVnEU",
+                     "expanded_url" : "http://vine.co/v/ehqlOtMVnEU",
+                     "indices" : [ 50, 72 ],
+                     "url" : "http://t.co/sb2JYZf23T"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 3609,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605032235587276801,
+            "id_str" : "605032235587276801",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : true,
+            "retweet_count" : 3047,
+            "retweeted" : false,
+            "source" : "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+            "text" : "How I react when there are gun shots in a song 😂💯 http://t.co/sb2JYZf23T",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Apr 22 01:48:18 +0000 2013",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "NOT Affiliated With @WORLDSTAR or Vine. We Do Not Own The Media That Is Posted. 18+ Content  Parody Worldstarbusiness@gmail.com\nInsta & Snapchat: WSHHFANS",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 0,
+               "follow_request_sent" : false,
+               "followers_count" : 712526,
+               "following" : false,
+               "friends_count" : 110774,
+               "geo_enabled" : false,
+               "id" : 1370986902,
+               "id_str" : "1370986902",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 369,
+               "location" : "worldstarbusiness@gmail.com ",
+               "name" : "WSHH FANS",
+               "notifications" : false,
+               "profile_background_color" : "000000",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1370986902/1430687540",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/438157927929491456/v0OWluiw_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/438157927929491456/v0OWluiw_normal.png",
+               "profile_link_color" : "DD2E44",
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "000000",
+               "profile_text_color" : "000000",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "WORIDSTARHlPHOP",
+               "statuses_count" : 22364,
+               "time_zone" : "Arizona",
+               "url" : null,
+               "utc_offset" : -25200,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "RT @WORIDSTARHlPHOP: How I react when there are gun shots in a song 😂💯 http://t.co/sb2JYZf23T",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jan 14 16:33:14 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 193,
+            "follow_request_sent" : false,
+            "followers_count" : 58,
+            "following" : false,
+            "friends_count" : 80,
+            "geo_enabled" : false,
+            "id" : 2983027428,
+            "id_str" : "2983027428",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Chris",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/555403090178764800/iG8rug3f_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/555403090178764800/iG8rug3f_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "_Chris_Wilson13",
+            "statuses_count" : 261,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:49 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                  "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/biRSdCcmbh"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 179732982,
+                  "id_str" : "179732982",
+                  "indices" : [ 3, 16 ],
+                  "name" : "The Daily Edge",
+                  "screen_name" : "TheDailyEdge"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529967351459840,
+         "id_str" : "605529967351459840",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 31,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:17:54 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                     "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                     "indices" : [ 116, 138 ],
+                     "url" : "http://t.co/biRSdCcmbh"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 20,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605528731394953217,
+            "id_str" : "605528731394953217",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 31,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http://t.co/biRSdCcmbh",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Aug 18 00:29:10 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Twitter's most essential comedy newspaper. All tweets hand-crafted. Also on Facebook.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "thedailyedge.net",
+                           "expanded_url" : "http://thedailyedge.net/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/SWztvMOL9H"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 12241,
+               "follow_request_sent" : false,
+               "followers_count" : 102163,
+               "following" : false,
+               "friends_count" : 74642,
+               "geo_enabled" : false,
+               "id" : 179732982,
+               "id_str" : "179732982",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 2453,
+               "location" : "",
+               "name" : "The Daily Edge",
+               "notifications" : false,
+               "profile_background_color" : "811A8A",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/179732982/1431106246",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_link_color" : "CC3366",
+               "profile_sidebar_border_color" : "DBE9ED",
+               "profile_sidebar_fill_color" : "E6F6F9",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "TheDailyEdge",
+               "statuses_count" : 40190,
+               "time_zone" : "Eastern Time (US & Canada)",
+               "url" : "http://t.co/SWztvMOL9H",
+               "utc_offset" : -14400,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+         "text" : "RT @TheDailyEdge: Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jun 30 12:52:02 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Either I will find a way, or I will make one - \n\n #BlackLivesMatter\n #TeamNKH\n #NAVY\n #DAD\n #TeamObama\n #NoKidHungry",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1931,
+            "follow_request_sent" : false,
+            "followers_count" : 2210,
+            "following" : false,
+            "friends_count" : 2418,
+            "geo_enabled" : false,
+            "id" : 161279293,
+            "id_str" : "161279293",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 82,
+            "location" : "Washington, DC",
+            "name" : "Chef Taz",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000163325574/3dXTYExr.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000163325574/3dXTYExr.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/161279293/1398290318",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/569175925967704064/-FI4ylAF_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/569175925967704064/-FI4ylAF_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "cantdance2it",
+            "statuses_count" : 72628,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:48 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 310405067,
+                  "id_str" : "310405067",
+                  "indices" : [ 0, 8 ],
+                  "name" : "face of dhe face",
+                  "screen_name" : "zbeyde3"
+               },
+               {
+                  "id" : 385539815,
+                  "id_str" : "385539815",
+                  "indices" : [ 9, 23 ],
+                  "name" : "enver aysever",
+                  "screen_name" : "enveraysever2"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529966395174912,
+         "id_str" : "605529966395174912",
+         "in_reply_to_screen_name" : "zbeyde3",
+         "in_reply_to_status_id" : 605526702740140032,
+         "in_reply_to_status_id_str" : "605526702740140032",
+         "in_reply_to_user_id" : 310405067,
+         "in_reply_to_user_id_str" : "310405067",
+         "is_quote_status" : false,
+         "lang" : "tr",
+         "metadata" : {
+            "iso_language_code" : "tr",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "@zbeyde3 @enveraysever2 Bizim kültürümüzde biat etmek veya boyun egmek yok !! 5 gun sonra gercek demokrasiyi uygulamali anlatcam paşam.",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed May 13 20:23:26 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Hak yolunda ilelebet!! -Hz.Ali/Aşk ile !",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 134,
+            "follow_request_sent" : false,
+            "followers_count" : 67,
+            "following" : false,
+            "friends_count" : 167,
+            "geo_enabled" : true,
+            "id" : 3252729400,
+            "id_str" : "3252729400",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "tr",
+            "listed_count" : 0,
+            "location" : "İstanbul, Türkiye",
+            "name" : "Dilenci Kahin",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3252729400/1432764801",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/603685617785032704/8hK5yXDG_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/603685617785032704/8hK5yXDG_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "alitrdt",
+            "statuses_count" : 229,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:47 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/R2PFMOFnYK",
+                  "expanded_url" : "http://twitter.com/miexme/status/605529962549002240/photo/1",
+                  "id" : 605529962448306176,
+                  "id_str" : "605529962448306176",
+                  "indices" : [ 115, 137 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGdGSuiWQAAYEQB.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGdGSuiWQAAYEQB.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 140,
+                        "resize" : "fit",
+                        "w" : 140
+                     },
+                     "medium" : {
+                        "h" : 140,
+                        "resize" : "fit",
+                        "w" : 140
+                     },
+                     "small" : {
+                        "h" : 140,
+                        "resize" : "fit",
+                        "w" : 140
+                     },
+                     "thumb" : {
+                        "h" : 140,
+                        "resize" : "crop",
+                        "w" : 140
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/R2PFMOFnYK"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "rover.ebay.com/rover/1/711-53…",
+                  "expanded_url" : "http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=2&toolid=10044&campid=5337649399&customid=&lgeo=1&vectorid=229466&item=291476362669&pub=5575041009",
+                  "indices" : [ 92, 114 ],
+                  "url" : "http://t.co/gQdxy1h76S"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529962549002240,
+         "id_str" : "605529962549002240",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+         "text" : "3PC WHOLESALE METAL 10 Million Volt STUN GUN RECHARGEABLE FLASHLIGHT Defense-T - Full read… http://t.co/gQdxy1h76S http://t.co/R2PFMOFnYK",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Mar 02 21:10:10 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 690,
+            "following" : false,
+            "friends_count" : 317,
+            "geo_enabled" : false,
+            "id" : 3058419751,
+            "id_str" : "3058419751",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "pl",
+            "listed_count" : 29,
+            "location" : "",
+            "name" : "Miexme Yuedze",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3058419751/1425331569",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/572508162779926528/paS2EYMh_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/572508162779926528/paS2EYMh_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "miexme",
+            "statuses_count" : 154594,
+            "time_zone" : "Belgrade",
+            "url" : null,
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:46 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 64, 75 ],
+                  "text" : "Liberalism"
+               },
+               {
+                  "indices" : [ 80, 92 ],
+                  "text" : "VinceVaughn"
+               },
+               {
+                  "indices" : [ 93, 101 ],
+                  "text" : "Patriot"
+               },
+               {
+                  "indices" : [ 106, 109 ],
+                  "text" : "2A"
+               },
+               {
+                  "indices" : [ 110, 114 ],
+                  "text" : "NRA"
+               },
+               {
+                  "indices" : [ 118, 124 ],
+                  "text" : "PJNET"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/LEYWFPRVvj",
+                  "expanded_url" : "http://twitter.com/SMolloyDVM/status/605507606006759425/photo/1",
+                  "id" : 605507544308588545,
+                  "id_str" : "605507544308588545",
+                  "indices" : [ 139, 140 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGcx50dVIAE74G1.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGcx50dVIAE74G1.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 774
+                     },
+                     "medium" : {
+                        "h" : 793,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 449,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 605507606006759425,
+                  "source_status_id_str" : "605507606006759425",
+                  "source_user_id" : 1358290958,
+                  "source_user_id_str" : "1358290958",
+                  "type" : "photo",
+                  "url" : "http://t.co/LEYWFPRVvj"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 1358290958,
+                  "id_str" : "1358290958",
+                  "indices" : [ 3, 14 ],
+                  "name" : "✞Dr Sue Molloy, DVM",
+                  "screen_name" : "SMolloyDVM"
+               },
+               {
+                  "id" : 7702542,
+                  "id_str" : "7702542",
+                  "indices" : [ 125, 133 ],
+                  "name" : "Dana Loesch",
+                  "screen_name" : "DLoesch"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529955414470656,
+         "id_str" : "605529955414470656",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 46,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Mon Jun 01 22:53:57 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 48, 59 ],
+                     "text" : "Liberalism"
+                  },
+                  {
+                     "indices" : [ 64, 76 ],
+                     "text" : "VinceVaughn"
+                  },
+                  {
+                     "indices" : [ 77, 85 ],
+                     "text" : "Patriot"
+                  },
+                  {
+                     "indices" : [ 90, 93 ],
+                     "text" : "2A"
+                  },
+                  {
+                     "indices" : [ 94, 98 ],
+                     "text" : "NRA"
+                  },
+                  {
+                     "indices" : [ 102, 108 ],
+                     "text" : "PJNET"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/LEYWFPRVvj",
+                     "expanded_url" : "http://twitter.com/SMolloyDVM/status/605507606006759425/photo/1",
+                     "id" : 605507544308588545,
+                     "id_str" : "605507544308588545",
+                     "indices" : [ 118, 140 ],
+                     "media_url" : "http://pbs.twimg.com/media/CGcx50dVIAE74G1.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/CGcx50dVIAE74G1.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 1024,
+                           "resize" : "fit",
+                           "w" : 774
+                        },
+                        "medium" : {
+                           "h" : 793,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 449,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/LEYWFPRVvj"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 7702542,
+                     "id_str" : "7702542",
+                     "indices" : [ 109, 117 ],
+                     "name" : "Dana Loesch",
+                     "screen_name" : "DLoesch"
+                  }
+               ]
+            },
+            "favorite_count" : 61,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605507606006759425,
+            "id_str" : "605507606006759425",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 46,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text" : "👍🏻1 more person in Hollywood w/o\nthe disease of #Liberalism 🙉🙈\n\n#VinceVaughn #Patriot 🇺🇸\n\n#2A #NRA🔫🔫🔫 #PJNET @DLoesch http://t.co/LEYWFPRVvj",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Apr 17 01:35:55 +0000 2013",
+               "default_profile" : true,
+               "default_profile_image" : false,
+               "description" : "❤️ #JESUS #BIBLE #ProLife #SOT #SOV #Israel #COS #Constitution #2A #MolonLabe Fby SenCruz_Cruz_Dupree_Woods_Woolery+ ⭐️FollwBk #Christians #military #vets #LEO",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 26315,
+               "follow_request_sent" : false,
+               "followers_count" : 6661,
+               "following" : false,
+               "friends_count" : 5997,
+               "geo_enabled" : true,
+               "id" : 1358290958,
+               "id_str" : "1358290958",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 139,
+               "location" : " MPLS ✟Matthew24✟John14:6✟",
+               "name" : "✞Dr Sue Molloy, DVM",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1358290958/1433119920",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/604749259934539777/Hq5-I4Ff_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/604749259934539777/Hq5-I4Ff_normal.jpg",
+               "profile_link_color" : "0084B4",
+               "profile_sidebar_border_color" : "C0DEED",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "SMolloyDVM",
+               "statuses_count" : 28542,
+               "time_zone" : null,
+               "url" : null,
+               "utc_offset" : null,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @SMolloyDVM: 👍🏻1 more person in Hollywood w/o\nthe disease of #Liberalism 🙉🙈\n\n#VinceVaughn #Patriot 🇺🇸\n\n#2A #NRA🔫🔫🔫 #PJNET @DLoesch http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Sep 13 03:00:01 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "2A ■ Infidel ■ Agnostic Gal ■ LiberTeaPublican ■ ProChoice ■ ManBearPig ■ FairTax ■ Legalize ■ JohnGalt ■ NoBigGov ■ NoMorePC ■ CommonSense ■ Capitalist",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 6199,
+            "follow_request_sent" : false,
+            "followers_count" : 1177,
+            "following" : false,
+            "friends_count" : 1623,
+            "geo_enabled" : false,
+            "id" : 2806660159,
+            "id_str" : "2806660159",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 24,
+            "location" : "Florida USA",
+            "name" : "SezSuzy",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/522621773544976384/wncTHh7l_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/522621773544976384/wncTHh7l_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "SezSuzy",
+            "statuses_count" : 13022,
+            "time_zone" : "America/New_York",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "headlines.yahoo.co.jp/hl?a=20150601-…",
+                  "expanded_url" : "http://headlines.yahoo.co.jp/hl?a=20150601-00000043-mai-soci",
+                  "indices" : [ 54, 76 ],
+                  "url" : "http://t.co/Dl78NBFaoc"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 242222743,
+                  "id_str" : "242222743",
+                  "indices" : [ 3, 13 ],
+                  "name" : "月刊ムー",
+                  "screen_name" : "mu_gakken"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529944601411585,
+         "id_str" : "605529944601411585",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "ja",
+         "metadata" : {
+            "iso_language_code" : "ja",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 777,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Mon Jun 01 08:43:01 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "headlines.yahoo.co.jp/hl?a=20150601-…",
+                     "expanded_url" : "http://headlines.yahoo.co.jp/hl?a=20150601-00000043-mai-soci",
+                     "indices" : [ 39, 61 ],
+                     "url" : "http://t.co/Dl78NBFaoc"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 219,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605293460749295616,
+            "id_str" : "605293460749295616",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "ja",
+            "metadata" : {
+               "iso_language_code" : "ja",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 777,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "＜訃報＞町村信孝さん７０歳＝前衆院議長（毎日新聞） - Yahoo!ニュース http://t.co/Dl78NBFaoc ●国会でＵＦＯのことが取り上げられたとき、町村官房長官は個人的には信じているとコメントしたことを思い出します。合掌。",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Jan 24 07:29:22 +0000 2011",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "世界の謎と不思議に挑戦する月刊「ムー」の公式Twitter。UFO、超能力、未確認動物、超古代文明など、あらゆるジャンルのニュースを発信。毎月９日発売！iPhone用クイズ・アプリもリリース中なのだっ！",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "gakken-publishing.jp/mu/",
+                           "expanded_url" : "http://gakken-publishing.jp/mu/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/9GEDmouTiS"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 549,
+               "follow_request_sent" : false,
+               "followers_count" : 33044,
+               "following" : false,
+               "friends_count" : 190,
+               "geo_enabled" : false,
+               "id" : 242222743,
+               "id_str" : "242222743",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ja",
+               "listed_count" : 1548,
+               "location" : "東京都品川区",
+               "name" : "月刊ムー",
+               "notifications" : false,
+               "profile_background_color" : "131516",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/419440397/twitter_bg_starter_kit.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/419440397/twitter_bg_starter_kit.jpg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/242222743/1355379778",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000545743390/126f4ccf5155e377acb80bbc9f008eb0_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000545743390/126f4ccf5155e377acb80bbc9f008eb0_normal.jpeg",
+               "profile_link_color" : "009999",
+               "profile_sidebar_border_color" : "EEEEEE",
+               "profile_sidebar_fill_color" : "EFEFEF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "mu_gakken",
+               "statuses_count" : 10457,
+               "time_zone" : "Tokyo",
+               "url" : "http://t.co/9GEDmouTiS",
+               "utc_offset" : 32400,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @mu_gakken: ＜訃報＞町村信孝さん７０歳＝前衆院議長（毎日新聞） - Yahoo!ニュース http://t.co/Dl78NBFaoc ●国会でＵＦＯのことが取り上げられたとき、町村官房長官は個人的には信じているとコメントしたことを思い出します。合掌。",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Mar 31 18:42:50 +0000 2010",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "【取扱：厨二病をこじらせます。用法容量を守って正しくお使いください。】",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 359,
+            "follow_request_sent" : false,
+            "followers_count" : 40,
+            "following" : false,
+            "friends_count" : 142,
+            "geo_enabled" : false,
+            "id" : 128303461,
+            "id_str" : "128303461",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ja",
+            "listed_count" : 2,
+            "location" : "アストラルサイド",
+            "name" : "アフガソ",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/790538331/ban_300_03grbgf_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/790538331/ban_300_03grbgf_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ahu_gun",
+            "statuses_count" : 34478,
+            "time_zone" : "Tokyo",
+            "url" : null,
+            "utc_offset" : 32400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/pnqrBzp4b3",
+                  "expanded_url" : "http://twitter.com/jovani94/status/605529943666081792/photo/1",
+                  "id" : 605529937483698178,
+                  "id_str" : "605529937483698178",
+                  "indices" : [ 51, 73 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGdGRRiUkAIzjIQ.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGdGRRiUkAIzjIQ.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 768
+                     },
+                     "medium" : {
+                        "h" : 800,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 453,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/pnqrBzp4b3"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 19638250,
+                  "id_str" : "19638250",
+                  "indices" : [ 0, 11 ],
+                  "name" : "Pitu",
+                  "screen_name" : "pituvision"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529943666081792,
+         "id_str" : "605529943666081792",
+         "in_reply_to_screen_name" : "pituvision",
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : 19638250,
+         "in_reply_to_user_id_str" : "19638250",
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "@pituvision Pitu do you still need a Splatoon gun? http://t.co/pnqrBzp4b3",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Jun 29 06:47:25 +0000 2009",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Really dont use this just have it for my game apps hahaha ;D",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 15,
+            "follow_request_sent" : false,
+            "followers_count" : 25,
+            "following" : false,
+            "friends_count" : 43,
+            "geo_enabled" : false,
+            "id" : 51985538,
+            "id_str" : "51985538",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Geo",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/51985538/1357099475",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/541428193660383232/XioX0Pya_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/541428193660383232/XioX0Pya_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "jovani94",
+            "statuses_count" : 442,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 2615476662,
+                  "id_str" : "2615476662",
+                  "indices" : [ 0, 10 ],
+                  "name" : "Canon Grey",
+                  "screen_name" : "GreyCanon"
+               },
+               {
+                  "id" : 2651777845,
+                  "id_str" : "2651777845",
+                  "indices" : [ 11, 19 ],
+                  "name" : "Apocalypse",
+                  "screen_name" : "inartic"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529942739152896,
+         "id_str" : "605529942739152896",
+         "in_reply_to_screen_name" : "GreyCanon",
+         "in_reply_to_status_id" : 605529171494903808,
+         "in_reply_to_status_id_str" : "605529171494903808",
+         "in_reply_to_user_id" : 2615476662,
+         "in_reply_to_user_id_str" : "2615476662",
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "@GreyCanon @inartic we had the gun buyback scheme in Aus. There are challenges the U.S. would face that we didn't, but it's more logical 1/2",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jan 18 04:28:41 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Love life, use your brains...",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 7210,
+            "follow_request_sent" : false,
+            "followers_count" : 214,
+            "following" : false,
+            "friends_count" : 269,
+            "geo_enabled" : false,
+            "id" : 467128128,
+            "id_str" : "467128128",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 14,
+            "location" : "Brisbane",
+            "name" : "Burneye",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/467128128/1420151616",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/602440129886584832/_hhK7A4H_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/602440129886584832/_hhK7A4H_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "BernadetteChin",
+            "statuses_count" : 9885,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 549209327,
+                  "id_str" : "549209327",
+                  "indices" : [ 3, 14 ],
+                  "name" : "tiny",
+                  "screen_name" : "187mobszta"
+               },
+               {
+                  "id" : 368727347,
+                  "id_str" : "368727347",
+                  "indices" : [ 16, 26 ],
+                  "name" : "Slim",
+                  "screen_name" : "lilshady_"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529941913030656,
+         "id_str" : "605529941913030656",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:18:38 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 368727347,
+                     "id_str" : "368727347",
+                     "indices" : [ 0, 10 ],
+                     "name" : "Slim",
+                     "screen_name" : "lilshady_"
+                  }
+               ]
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605528916401516544,
+            "id_str" : "605528916401516544",
+            "in_reply_to_screen_name" : "lilshady_",
+            "in_reply_to_status_id" : 605527575977410561,
+            "in_reply_to_status_id_str" : "605527575977410561",
+            "in_reply_to_user_id" : 368727347,
+            "in_reply_to_user_id_str" : "368727347",
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text" : "@lilshady_ then I let you go and just give and 'fore I put that gun to my temple I told you this..",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Apr 09 13:01:12 +0000 2012",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 6182,
+               "follow_request_sent" : false,
+               "followers_count" : 562,
+               "following" : false,
+               "friends_count" : 167,
+               "geo_enabled" : true,
+               "id" : 549209327,
+               "id_str" : "549209327",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 0,
+               "location" : "",
+               "name" : "tiny",
+               "notifications" : false,
+               "profile_background_color" : "131516",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/549209327/1432819766",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/583792357830561792/d5Zbfr8E_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/583792357830561792/d5Zbfr8E_normal.jpg",
+               "profile_link_color" : "002999",
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "EFEFEF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "187mobszta",
+               "statuses_count" : 41052,
+               "time_zone" : "Atlantic Time (Canada)",
+               "url" : null,
+               "utc_offset" : -10800,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "RT @187mobszta: @lilshady_ then I let you go and just give and 'fore I put that gun to my temple I told you this..",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Sep 06 03:46:12 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Slim Shady made me . | Salute the courage and bravery of our soldiers.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 6833,
+            "follow_request_sent" : false,
+            "followers_count" : 701,
+            "following" : false,
+            "friends_count" : 98,
+            "geo_enabled" : true,
+            "id" : 368727347,
+            "id_str" : "368727347",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 3,
+            "location" : "Dade Trap •",
+            "name" : "Slim",
+            "notifications" : false,
+            "profile_background_color" : "AD0A0A",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/770582923/03a977c2e6fa888dace7f30e5516793b.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/770582923/03a977c2e6fa888dace7f30e5516793b.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/368727347/1431573549",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/593995842811469824/UO5t-sQp_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/593995842811469824/UO5t-sQp_normal.png",
+            "profile_link_color" : "BF1B1B",
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "7AC3EE",
+            "profile_text_color" : "3D1957",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "lilshady_",
+            "statuses_count" : 69874,
+            "time_zone" : "Quito",
+            "url" : null,
+            "utc_offset" : -18000,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:42 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 65, 70 ],
+                  "text" : "USMC"
+               },
+               {
+                  "indices" : [ 71, 76 ],
+                  "text" : "NAGR"
+               },
+               {
+                  "indices" : [ 77, 80 ],
+                  "text" : "2A"
+               },
+               {
+                  "indices" : [ 81, 85 ],
+                  "text" : "NRA"
+               },
+               {
+                  "indices" : [ 86, 95 ],
+                  "text" : "Veterans"
+               },
+               {
+                  "indices" : [ 96, 105 ],
+                  "text" : "FreeZahn"
+               },
+               {
+                  "indices" : [ 129, 140 ],
+                  "text" : "WakeUpAmerica"
+               },
+               {
+                  "indices" : [ 139, 140 ],
+                  "text" : "PJNET"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/p4ovOZXj15",
+                  "expanded_url" : "http://twitter.com/steph93065/status/605094749763010560/photo/1",
+                  "id" : 605094748911640576,
+                  "id_str" : "605094748911640576",
+                  "indices" : [ 106, 128 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 262,
+                        "resize" : "fit",
+                        "w" : 532
+                     },
+                     "medium" : {
+                        "h" : 262,
+                        "resize" : "fit",
+                        "w" : 532
+                     },
+                     "small" : {
+                        "h" : 167,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 605094749763010560,
+                  "source_status_id_str" : "605094749763010560",
+                  "source_user_id" : 261749735,
+                  "source_user_id_str" : "261749735",
+                  "type" : "photo",
+                  "url" : "http://t.co/p4ovOZXj15"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 32765764,
+                  "id_str" : "32765764",
+                  "indices" : [ 3, 15 ],
+                  "name" : "#MakeDCListen",
+                  "screen_name" : "ChgocadChic"
+               },
+               {
+                  "id" : 261749735,
+                  "id_str" : "261749735",
+                  "indices" : [ 20, 31 ],
+                  "name" : "Steph",
+                  "screen_name" : "steph93065"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529939174137856,
+         "id_str" : "605529939174137856",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 7,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Mon Jun 01 23:46:16 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 48, 53 ],
+                     "text" : "USMC"
+                  },
+                  {
+                     "indices" : [ 54, 59 ],
+                     "text" : "NAGR"
+                  },
+                  {
+                     "indices" : [ 60, 63 ],
+                     "text" : "2A"
+                  },
+                  {
+                     "indices" : [ 64, 68 ],
+                     "text" : "NRA"
+                  },
+                  {
+                     "indices" : [ 69, 78 ],
+                     "text" : "Veterans"
+                  },
+                  {
+                     "indices" : [ 79, 88 ],
+                     "text" : "FreeZahn"
+                  },
+                  {
+                     "indices" : [ 112, 126 ],
+                     "text" : "WakeUpAmerica"
+                  },
+                  {
+                     "indices" : [ 127, 133 ],
+                     "text" : "PJNET"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/p4ovOZXj15",
+                     "expanded_url" : "http://twitter.com/steph93065/status/605094749763010560/photo/1",
+                     "id" : 605094748911640576,
+                     "id_str" : "605094748911640576",
+                     "indices" : [ 89, 111 ],
+                     "media_url" : "http://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                     "media_url_https" : "https://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 262,
+                           "resize" : "fit",
+                           "w" : 532
+                        },
+                        "medium" : {
+                           "h" : 262,
+                           "resize" : "fit",
+                           "w" : 532
+                        },
+                        "small" : {
+                           "h" : 167,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "source_status_id" : 605094749763010560,
+                     "source_status_id_str" : "605094749763010560",
+                     "source_user_id" : 261749735,
+                     "source_user_id_str" : "261749735",
+                     "type" : "photo",
+                     "url" : "http://t.co/p4ovOZXj15"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 261749735,
+                     "id_str" : "261749735",
+                     "indices" : [ 3, 14 ],
+                     "name" : "Steph",
+                     "screen_name" : "steph93065"
+                  }
+               ]
+            },
+            "favorite_count" : 5,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605520771427934208,
+            "id_str" : "605520771427934208",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 7,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "MT @steph93065: Something is VERY wrong here... #USMC #NAGR #2A #NRA #Veterans #FreeZahn http://t.co/p4ovOZXj15 #WakeUpAmerica #PJNET",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sat Apr 18 03:38:09 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Christian Conservative #CruzCrew #WakeUpAmerica  #IStandWithIsrael #Constitution #Military  #SecureOurBorders  #CCOT #PJNET #COSProject  BACKUP @ChgocaChic",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 5425,
+               "follow_request_sent" : false,
+               "followers_count" : 2949,
+               "following" : false,
+               "friends_count" : 2916,
+               "geo_enabled" : false,
+               "id" : 32765764,
+               "id_str" : "32765764",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 53,
+               "location" : "A Chicagoan lost in cyberspace",
+               "name" : "#MakeDCListen",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/32765764/1428053907",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/584177995130081280/lTh-6aHs_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/584177995130081280/lTh-6aHs_normal.jpg",
+               "profile_link_color" : "3B94D9",
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ChgocadChic",
+               "statuses_count" : 23026,
+               "time_zone" : "Central Time (US & Canada)",
+               "url" : null,
+               "utc_offset" : -18000,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ChgocadChic: MT @steph93065: Something is VERY wrong here... #USMC #NAGR #2A #NRA #Veterans #FreeZahn http://t.co/p4ovOZXj15 #WakeUpAme…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jan 21 18:28:58 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : true,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 49,
+            "follow_request_sent" : false,
+            "followers_count" : 36,
+            "following" : false,
+            "friends_count" : 250,
+            "geo_enabled" : false,
+            "id" : 2990386762,
+            "id_str" : "2990386762",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "adam ratcliffe",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Txdevils111Adam",
+            "statuses_count" : 398,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:42 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 65, 70 ],
+                  "text" : "USMC"
+               },
+               {
+                  "indices" : [ 71, 76 ],
+                  "text" : "NAGR"
+               },
+               {
+                  "indices" : [ 77, 80 ],
+                  "text" : "2A"
+               },
+               {
+                  "indices" : [ 81, 85 ],
+                  "text" : "NRA"
+               },
+               {
+                  "indices" : [ 86, 95 ],
+                  "text" : "Veterans"
+               },
+               {
+                  "indices" : [ 96, 105 ],
+                  "text" : "FreeZahn"
+               },
+               {
+                  "indices" : [ 129, 140 ],
+                  "text" : "WakeUpAmerica"
+               },
+               {
+                  "indices" : [ 139, 140 ],
+                  "text" : "PJNET"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/p4ovOZXj15",
+                  "expanded_url" : "http://twitter.com/steph93065/status/605094749763010560/photo/1",
+                  "id" : 605094748911640576,
+                  "id_str" : "605094748911640576",
+                  "indices" : [ 106, 128 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 262,
+                        "resize" : "fit",
+                        "w" : 532
+                     },
+                     "medium" : {
+                        "h" : 262,
+                        "resize" : "fit",
+                        "w" : 532
+                     },
+                     "small" : {
+                        "h" : 167,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 605094749763010560,
+                  "source_status_id_str" : "605094749763010560",
+                  "source_user_id" : 261749735,
+                  "source_user_id_str" : "261749735",
+                  "type" : "photo",
+                  "url" : "http://t.co/p4ovOZXj15"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 32765764,
+                  "id_str" : "32765764",
+                  "indices" : [ 3, 15 ],
+                  "name" : "#MakeDCListen",
+                  "screen_name" : "ChgocadChic"
+               },
+               {
+                  "id" : 261749735,
+                  "id_str" : "261749735",
+                  "indices" : [ 20, 31 ],
+                  "name" : "Steph",
+                  "screen_name" : "steph93065"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529939044147200,
+         "id_str" : "605529939044147200",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 7,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Mon Jun 01 23:46:16 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 48, 53 ],
+                     "text" : "USMC"
+                  },
+                  {
+                     "indices" : [ 54, 59 ],
+                     "text" : "NAGR"
+                  },
+                  {
+                     "indices" : [ 60, 63 ],
+                     "text" : "2A"
+                  },
+                  {
+                     "indices" : [ 64, 68 ],
+                     "text" : "NRA"
+                  },
+                  {
+                     "indices" : [ 69, 78 ],
+                     "text" : "Veterans"
+                  },
+                  {
+                     "indices" : [ 79, 88 ],
+                     "text" : "FreeZahn"
+                  },
+                  {
+                     "indices" : [ 112, 126 ],
+                     "text" : "WakeUpAmerica"
+                  },
+                  {
+                     "indices" : [ 127, 133 ],
+                     "text" : "PJNET"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/p4ovOZXj15",
+                     "expanded_url" : "http://twitter.com/steph93065/status/605094749763010560/photo/1",
+                     "id" : 605094748911640576,
+                     "id_str" : "605094748911640576",
+                     "indices" : [ 89, 111 ],
+                     "media_url" : "http://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                     "media_url_https" : "https://pbs.twimg.com/media/CGW6d9xVIAA6ZSy.png",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 262,
+                           "resize" : "fit",
+                           "w" : 532
+                        },
+                        "medium" : {
+                           "h" : 262,
+                           "resize" : "fit",
+                           "w" : 532
+                        },
+                        "small" : {
+                           "h" : 167,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "source_status_id" : 605094749763010560,
+                     "source_status_id_str" : "605094749763010560",
+                     "source_user_id" : 261749735,
+                     "source_user_id_str" : "261749735",
+                     "type" : "photo",
+                     "url" : "http://t.co/p4ovOZXj15"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 261749735,
+                     "id_str" : "261749735",
+                     "indices" : [ 3, 14 ],
+                     "name" : "Steph",
+                     "screen_name" : "steph93065"
+                  }
+               ]
+            },
+            "favorite_count" : 5,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605520771427934208,
+            "id_str" : "605520771427934208",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 7,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "MT @steph93065: Something is VERY wrong here... #USMC #NAGR #2A #NRA #Veterans #FreeZahn http://t.co/p4ovOZXj15 #WakeUpAmerica #PJNET",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sat Apr 18 03:38:09 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Christian Conservative #CruzCrew #WakeUpAmerica  #IStandWithIsrael #Constitution #Military  #SecureOurBorders  #CCOT #PJNET #COSProject  BACKUP @ChgocaChic",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 5425,
+               "follow_request_sent" : false,
+               "followers_count" : 2949,
+               "following" : false,
+               "friends_count" : 2916,
+               "geo_enabled" : false,
+               "id" : 32765764,
+               "id_str" : "32765764",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 53,
+               "location" : "A Chicagoan lost in cyberspace",
+               "name" : "#MakeDCListen",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/32765764/1428053907",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/584177995130081280/lTh-6aHs_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/584177995130081280/lTh-6aHs_normal.jpg",
+               "profile_link_color" : "3B94D9",
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ChgocadChic",
+               "statuses_count" : 23026,
+               "time_zone" : "Central Time (US & Canada)",
+               "url" : null,
+               "utc_offset" : -18000,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "RT @ChgocadChic: MT @steph93065: Something is VERY wrong here... #USMC #NAGR #2A #NRA #Veterans #FreeZahn http://t.co/p4ovOZXj15 #WakeUpAme…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Aug 28 03:21:36 +0000 2011",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 570,
+            "follow_request_sent" : false,
+            "followers_count" : 540,
+            "following" : false,
+            "friends_count" : 718,
+            "geo_enabled" : true,
+            "id" : 363452796,
+            "id_str" : "363452796",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 15,
+            "location" : "disabled",
+            "name" : "BUDDYR1",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1676533366/tree-kissing-gif_normal.gif",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1676533366/tree-kissing-gif_normal.gif",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "BUDDYR1",
+            "statuses_count" : 18932,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:42 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "fb.me/6B2JBonhj",
+                  "expanded_url" : "http://fb.me/6B2JBonhj",
+                  "indices" : [ 90, 112 ],
+                  "url" : "http://t.co/CzZccvi5Ea"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529938838581248,
+         "id_str" : "605529938838581248",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+         "text" : "Vince Vaughn: 'I Support People Having A Gun' | The Joe Pags Show on News Radio 1200 WOAI http://t.co/CzZccvi5Ea",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Feb 22 16:01:58 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "When I began work in 1969 my Wife and I worked our way into the middle class.  MY Children have not had the same opportunity! This must CHANGE! #UniteBlue #OFA",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1975,
+            "follow_request_sent" : false,
+            "followers_count" : 3088,
+            "following" : false,
+            "friends_count" : 3015,
+            "geo_enabled" : false,
+            "id" : 1209041436,
+            "id_str" : "1209041436",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 72,
+            "location" : "#Fort Walton Beach, Florida",
+            "name" : "Jerry Hyde",
+            "notifications" : false,
+            "profile_background_color" : "000000",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1209041436/1415634731",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/531833898188021760/tdOas9Sq_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/531833898188021760/tdOas9Sq_normal.png",
+            "profile_link_color" : "DD2E44",
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "000000",
+            "profile_text_color" : "000000",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "HydeBlizzardbox",
+            "statuses_count" : 32041,
+            "time_zone" : "Central Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -18000,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:41 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                  "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/biRSdCcmbh"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 179732982,
+                  "id_str" : "179732982",
+                  "indices" : [ 3, 16 ],
+                  "name" : "The Daily Edge",
+                  "screen_name" : "TheDailyEdge"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529934572851200,
+         "id_str" : "605529934572851200",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 31,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:17:54 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                     "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                     "indices" : [ 116, 138 ],
+                     "url" : "http://t.co/biRSdCcmbh"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 20,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605528731394953217,
+            "id_str" : "605528731394953217",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 31,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http://t.co/biRSdCcmbh",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Aug 18 00:29:10 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Twitter's most essential comedy newspaper. All tweets hand-crafted. Also on Facebook.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "thedailyedge.net",
+                           "expanded_url" : "http://thedailyedge.net/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/SWztvMOL9H"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 12241,
+               "follow_request_sent" : false,
+               "followers_count" : 102163,
+               "following" : false,
+               "friends_count" : 74642,
+               "geo_enabled" : false,
+               "id" : 179732982,
+               "id_str" : "179732982",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 2453,
+               "location" : "",
+               "name" : "The Daily Edge",
+               "notifications" : false,
+               "profile_background_color" : "811A8A",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/179732982/1431106246",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_link_color" : "CC3366",
+               "profile_sidebar_border_color" : "DBE9ED",
+               "profile_sidebar_fill_color" : "E6F6F9",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "TheDailyEdge",
+               "statuses_count" : 40190,
+               "time_zone" : "Eastern Time (US & Canada)",
+               "url" : "http://t.co/SWztvMOL9H",
+               "utc_offset" : -14400,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @TheDailyEdge: Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Jan 24 12:42:43 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 3397,
+            "follow_request_sent" : false,
+            "followers_count" : 1051,
+            "following" : false,
+            "friends_count" : 1998,
+            "geo_enabled" : false,
+            "id" : 2994611948,
+            "id_str" : "2994611948",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 28,
+            "location" : "",
+            "name" : "Willem Wolthuis",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2994611948/1428707920",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/558968864067682305/KPu7w8Pl_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/558968864067682305/KPu7w8Pl_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "9efafbd2271f4fd",
+            "statuses_count" : 11140,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529931704094720,
+         "id_str" : "605529931704094720",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "Vince Vaughan wants to turn school kids into women using Bruce Jenner's gun?",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Feb 11 19:10:06 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Sometimes I go about in pity for myself, and all the while, a great wind carries me across the sky",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 2206,
+            "follow_request_sent" : false,
+            "followers_count" : 77,
+            "following" : false,
+            "friends_count" : 216,
+            "geo_enabled" : true,
+            "id" : 250761763,
+            "id_str" : "250761763",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 2,
+            "location" : "",
+            "name" : "Brendan",
+            "notifications" : false,
+            "profile_background_color" : "131516",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile" : true,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/449996341737820160/indbb7bN_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/449996341737820160/indbb7bN_normal.jpeg",
+            "profile_link_color" : "009999",
+            "profile_sidebar_border_color" : "EEEEEE",
+            "profile_sidebar_fill_color" : "EFEFEF",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Brndn75",
+            "statuses_count" : 12123,
+            "time_zone" : "Central Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -18000,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/N0r14IsT0c",
+                  "expanded_url" : "http://twitter.com/HistoryImg/status/491522398101848064/photo/1",
+                  "id" : 491522396201828352,
+                  "id_str" : "491522396201828352",
+                  "indices" : [ 43, 65 ],
+                  "media_url" : "http://pbs.twimg.com/media/BtI9A-DCQAApE-X.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/BtI9A-DCQAApE-X.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 484,
+                        "resize" : "fit",
+                        "w" : 497
+                     },
+                     "medium" : {
+                        "h" : 484,
+                        "resize" : "fit",
+                        "w" : 497
+                     },
+                     "small" : {
+                        "h" : 331,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 491522398101848064,
+                  "source_status_id_str" : "491522398101848064",
+                  "source_user_id" : 2515558939,
+                  "source_user_id_str" : "2515558939",
+                  "type" : "photo",
+                  "url" : "http://t.co/N0r14IsT0c"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529930617614336,
+         "id_str" : "605529930617614336",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "ja",
+         "metadata" : {
+            "iso_language_code" : "ja",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+         "text" : "ミッシェル・ガン・エレファント THEE MICHELLE GUN ELEPHANT http://t.co/N0r14IsT0c",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Jul 17 17:43:52 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 1512,
+            "following" : false,
+            "friends_count" : 1643,
+            "geo_enabled" : false,
+            "id" : 2654450983,
+            "id_str" : "2654450983",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ja",
+            "listed_count" : 11,
+            "location" : "地球",
+            "name" : "history image",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/502732929148002304/gMj4z_t9_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/502732929148002304/gMj4z_t9_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "arufa03307",
+            "statuses_count" : 3236,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/57DtllkZjT",
+                  "expanded_url" : "http://twitter.com/Keamje__Teakti/status/605529929846026240/photo/1",
+                  "id" : 605529929791479811,
+                  "id_str" : "605529929791479811",
+                  "indices" : [ 115, 137 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGdGQ04WoAMsMfV.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGdGQ04WoAMsMfV.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 30,
+                        "resize" : "fit",
+                        "w" : 80
+                     },
+                     "medium" : {
+                        "h" : 30,
+                        "resize" : "fit",
+                        "w" : 80
+                     },
+                     "small" : {
+                        "h" : 30,
+                        "resize" : "fit",
+                        "w" : 80
+                     },
+                     "thumb" : {
+                        "h" : 30,
+                        "resize" : "crop",
+                        "w" : 80
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/57DtllkZjT"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "rover.ebay.com/rover/1/711-53…",
+                  "expanded_url" : "http://rover.ebay.com/rover/1/711-53200-19255-0/1?campid=5337670618&customid=&toolid=10014&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FLockdown-18-inch-Dehumidifier-Gun-Safe-Boat-RV-Closet-Bedroom-Humidity-Mold-%2F251412434859",
+                  "indices" : [ 92, 114 ],
+                  "url" : "http://t.co/JcLx5Fdov8"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529929846026240,
+         "id_str" : "605529929846026240",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+         "text" : "Lockdown 18\" inch Dehumidifier Gun Safe Boat RV Closet Bedroom Humidity Mold - Full read b… http://t.co/JcLx5Fdov8 http://t.co/57DtllkZjT",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Apr 30 17:12:50 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 250,
+            "following" : false,
+            "friends_count" : 135,
+            "geo_enabled" : false,
+            "id" : 3224913244,
+            "id_str" : "3224913244",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "pl",
+            "listed_count" : 22,
+            "location" : "New York",
+            "name" : "Keamje Teakti",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/593829609139007488/RVf6tOE6_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/593829609139007488/RVf6tOE6_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Keamje__Teakti",
+            "statuses_count" : 54845,
+            "time_zone" : "Belgrade",
+            "url" : null,
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:39 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/tvoTMEgcZ2",
+                  "expanded_url" : "http://twitter.com/Keamje__Teakti/status/605529927606235136/photo/1",
+                  "id" : 605529927551713281,
+                  "id_str" : "605529927551713281",
+                  "indices" : [ 99, 121 ],
+                  "media_url" : "http://pbs.twimg.com/media/CGdGQsiWgAEWAcy.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CGdGQsiWgAEWAcy.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 80,
+                        "resize" : "fit",
+                        "w" : 62
+                     },
+                     "medium" : {
+                        "h" : 80,
+                        "resize" : "fit",
+                        "w" : 62
+                     },
+                     "small" : {
+                        "h" : 80,
+                        "resize" : "fit",
+                        "w" : 62
+                     },
+                     "thumb" : {
+                        "h" : 80,
+                        "resize" : "crop",
+                        "w" : 62
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/tvoTMEgcZ2"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "rover.ebay.com/rover/1/711-53…",
+                  "expanded_url" : "http://rover.ebay.com/rover/1/711-53200-19255-0/1?campid=5337670618&customid=&toolid=10014&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FGun-Safe-Dehumidifier-Rechargeable-Desiccant-30-Cu-Ft-%2F300504012597",
+                  "indices" : [ 76, 98 ],
+                  "url" : "http://t.co/zuln5AsBux"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529927606235136,
+         "id_str" : "605529927606235136",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+         "text" : "Gun Safe Dehumidifier Rechargeable Desiccant 30 Cu. Ft. - Full read by eBay http://t.co/zuln5AsBux http://t.co/tvoTMEgcZ2",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Apr 30 17:12:50 +0000 2015",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 250,
+            "following" : false,
+            "friends_count" : 135,
+            "geo_enabled" : false,
+            "id" : 3224913244,
+            "id_str" : "3224913244",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "pl",
+            "listed_count" : 22,
+            "location" : "New York",
+            "name" : "Keamje Teakti",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/593829609139007488/RVf6tOE6_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/593829609139007488/RVf6tOE6_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Keamje__Teakti",
+            "statuses_count" : 54845,
+            "time_zone" : "Belgrade",
+            "url" : null,
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:38 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "kake.com/home/headlines…",
+                  "expanded_url" : "http://www.kake.com/home/headlines/Kansas-lawmakers-OK-bill-further-limiting-local-gun-rules-305761081.html?llsms=1181861&c=y&device=phone&c=y",
+                  "indices" : [ 32, 54 ],
+                  "url" : "http://t.co/nGUGrTBxVD"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529920941334529,
+         "id_str" : "605529920941334529",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "Is a budget next? Probably not. http://t.co/nGUGrTBxVD",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jul 15 03:07:25 +0000 2009",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Producer for @KAKENews. The opinions expressed on this site are my own",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "kake.com",
+                        "expanded_url" : "http://kake.com",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/yk1JbXkDYQ"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 168,
+            "follow_request_sent" : false,
+            "followers_count" : 684,
+            "following" : false,
+            "friends_count" : 1290,
+            "geo_enabled" : true,
+            "id" : 56906548,
+            "id_str" : "56906548",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 13,
+            "location" : "Wichita, KS",
+            "name" : "Chris Hunter",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/56906548/1353355492",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1938430497/me_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1938430497/me_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "chrishunterKS",
+            "statuses_count" : 3189,
+            "time_zone" : "Central Time (US & Canada)",
+            "url" : "http://t.co/yk1JbXkDYQ",
+            "utc_offset" : -18000,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:37 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529917506355200,
+         "id_str" : "605529917506355200",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "Me había olvidado del tema Better de los Gun's, no hay nada mejor en todo el universo♫♥",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Aug 26 00:34:05 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Ride to live 2616416912  Instagram - josehurtado3107",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 2171,
+            "follow_request_sent" : false,
+            "followers_count" : 344,
+            "following" : false,
+            "friends_count" : 342,
+            "geo_enabled" : true,
+            "id" : 1700491536,
+            "id_str" : "1700491536",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Pali#18",
+            "notifications" : false,
+            "profile_background_color" : "3B94D9",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000101974839/f82f40570657b40dc942bb0a12e8e5d3.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000101974839/f82f40570657b40dc942bb0a12e8e5d3.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1700491536/1433204233",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/605143533725577216/RRG1V3zH_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/605143533725577216/RRG1V3zH_normal.jpg",
+            "profile_link_color" : "4A913C",
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "josehurtado213",
+            "statuses_count" : 17213,
+            "time_zone" : "Brasilia",
+            "url" : null,
+            "utc_offset" : -10800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:36 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529914238889985,
+         "id_str" : "605529914238889985",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "ko",
+         "metadata" : {
+            "iso_language_code" : "ko",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "안경닦다 안경다리끝으로 앞사람겨드랑이찌름;;;스미마셍",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Feb 08 03:35:35 +0000 2015",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "콘퐁 최군계.최군덕질만 합니다/햄맘1 /팔로자유 블락자유 ,떠나시는분들은 블언블 부탁드려요/맞팔원하시면 멘션주세여!/bl주의",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 598,
+            "follow_request_sent" : false,
+            "followers_count" : 100,
+            "following" : false,
+            "friends_count" : 75,
+            "geo_enabled" : false,
+            "id" : 3012986941,
+            "id_str" : "3012986941",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ko",
+            "listed_count" : 1,
+            "location" : "최군친추 [konpong] ",
+            "name" : "콘퐁[최군계]",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/578512737040363520/1r7qwco5.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/578512737040363520/1r7qwco5.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/3012986941/1432466776",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/605017054324781057/fy91w44K_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/605017054324781057/fy91w44K_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "hipiiu_gun",
+            "statuses_count" : 404,
+            "time_zone" : "Irkutsk",
+            "url" : null,
+            "utc_offset" : 32400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:35 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529909717442560,
+         "id_str" : "605529909717442560",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "That's what I get for jumping the gun haha",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Apr 19 04:01:44 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Young Christian man trying to keep my shirts buttoned and my ties tight",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 11,
+            "follow_request_sent" : false,
+            "followers_count" : 120,
+            "following" : false,
+            "friends_count" : 258,
+            "geo_enabled" : true,
+            "id" : 2452356776,
+            "id_str" : "2452356776",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 1,
+            "location" : "",
+            "name" : "God Fearing Man",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2452356776/1415757772",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/554037495331946496/tQISLgqZ_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/554037495331946496/tQISLgqZ_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "TheeKJ",
+            "statuses_count" : 2669,
+            "time_zone" : "Arizona",
+            "url" : null,
+            "utc_offset" : -25200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "created_at" : "Tue Jun 02 00:22:35 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 350602939,
+                  "id_str" : "350602939",
+                  "indices" : [ 3, 17 ],
+                  "name" : "nick robertson",
+                  "screen_name" : "nickyrobertso"
+               },
+               {
+                  "id" : 29974662,
+                  "id_str" : "29974662",
+                  "indices" : [ 19, 29 ],
+                  "name" : "SUKHPAL MARITIME 55K",
+                  "screen_name" : "captsingh"
+               },
+               {
+                  "id" : 21332359,
+                  "id_str" : "21332359",
+                  "indices" : [ 30, 38 ],
+                  "name" : "Annette J Dunlea",
+                  "screen_name" : "adunlea"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "id" : 605529908761075712,
+         "id_str" : "605529908761075712",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 103.749959507073, 1.2123138339349 ],
+                     [ 103.918426999964, 1.2123138339349 ],
+                     [ 103.918426999964, 1.3687449990256899 ],
+                     [ 103.749959507073, 1.3687449990256899 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "Singapore",
+            "country_code" : "SG",
+            "full_name" : "Central Region, Singapore",
+            "id" : "58a4c3a0d54e1400",
+            "name" : "Central Region",
+            "place_type" : "admin",
+            "url" : "https://api.twitter.com/1.1/geo/id/58a4c3a0d54e1400.json"
+         },
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @nickyrobertso: @captsingh @adunlea    ... and when we find ... The Bismarck ... were gonna gun her down ...    Johnny Horton ...",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Apr 09 12:37:51 +0000 2009",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Capt Rabinder Singh ✪ World travelled. Ship Captain / Maritime Expert ♦ ŜPÅÑĪŜH speaker. ■ Married / Son at Oxford ■ UK Class.1 Master Mariner ■",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "captsingh.wix.com/sukhpal-mariti…",
+                        "expanded_url" : "http://captsingh.wix.com/sukhpal-maritime",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/OoiFJvKu7z"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 7088,
+            "follow_request_sent" : false,
+            "followers_count" : 58791,
+            "following" : false,
+            "friends_count" : 58019,
+            "geo_enabled" : true,
+            "id" : 29974662,
+            "id_str" : "29974662",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 537,
+            "location" : " SINGAPORE",
+            "name" : "SUKHPAL MARITIME 55K",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/29974662/1353262804",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/498295898749681664/FWEysZPG_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/498295898749681664/FWEysZPG_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "captsingh",
+            "statuses_count" : 127679,
+            "time_zone" : "Singapore",
+            "url" : "http://t.co/OoiFJvKu7z",
+            "utc_offset" : 28800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:34 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529908136132608,
+         "id_str" : "605529908136132608",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "Surprise, surprise! Our unqualified Surgeon General Vivek Murthy is talking about gun control being a health issue again! Sheesh!",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Feb 03 03:25:48 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Christian, American, Retired Army, Conservative, Author, Father & Grandfather. I love my country and my family!",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 4,
+            "following" : false,
+            "friends_count" : 16,
+            "geo_enabled" : false,
+            "id" : 481726998,
+            "id_str" : "481726998",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 1,
+            "location" : "Arizona",
+            "name" : "Ed Hill",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1800496130/InWickenburg_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1800496130/InWickenburg_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "edhill42",
+            "statuses_count" : 41,
+            "time_zone" : "Arizona",
+            "url" : null,
+            "utc_offset" : -25200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:34 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "fb.me/27BA1pH4w",
+                  "expanded_url" : "http://fb.me/27BA1pH4w",
+                  "indices" : [ 122, 140 ],
+                  "url" : "http://t.co/WK4ZJhyYNA"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 1209041436,
+                  "id_str" : "1209041436",
+                  "indices" : [ 3, 19 ],
+                  "name" : "Jerry Hyde",
+                  "screen_name" : "HydeBlizzardbox"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529907993673728,
+         "id_str" : "605529907993673728",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:19:45 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "fb.me/27BA1pH4w",
+                     "expanded_url" : "http://fb.me/27BA1pH4w",
+                     "indices" : [ 101, 123 ],
+                     "url" : "http://t.co/WK4ZJhyYNA"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605529197323403264,
+            "id_str" : "605529197323403264",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+            "text" : "NRA: Obama Stigmatizing Mentally Ill, Domestic Abusers By Not Letting Them Own Guns | FreakOutNation http://t.co/WK4ZJhyYNA",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Fri Feb 22 16:01:58 +0000 2013",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "When I began work in 1969 my Wife and I worked our way into the middle class.  MY Children have not had the same opportunity! This must CHANGE! #UniteBlue #OFA",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 1975,
+               "follow_request_sent" : false,
+               "followers_count" : 3088,
+               "following" : false,
+               "friends_count" : 3015,
+               "geo_enabled" : false,
+               "id" : 1209041436,
+               "id_str" : "1209041436",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 72,
+               "location" : "#Fort Walton Beach, Florida",
+               "name" : "Jerry Hyde",
+               "notifications" : false,
+               "profile_background_color" : "000000",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1209041436/1415634731",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/531833898188021760/tdOas9Sq_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/531833898188021760/tdOas9Sq_normal.png",
+               "profile_link_color" : "DD2E44",
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "000000",
+               "profile_text_color" : "000000",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "HydeBlizzardbox",
+               "statuses_count" : 32041,
+               "time_zone" : "Central Time (US & Canada)",
+               "url" : null,
+               "utc_offset" : -18000,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @HydeBlizzardbox: NRA: Obama Stigmatizing Mentally Ill, Domestic Abusers By Not Letting Them Own Guns | FreakOutNation http://t.co/WK4ZJ…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Aug 01 16:38:32 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "president obama supporter the gop is a disgrace #unite blue #solar energy climate change is real @electric cars @gunsense rwnj blocked  ny rangers ny mets",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 18900,
+            "follow_request_sent" : false,
+            "followers_count" : 4071,
+            "following" : false,
+            "friends_count" : 2383,
+            "geo_enabled" : true,
+            "id" : 346656479,
+            "id_str" : "346656479",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 140,
+            "location" : "brooklyn ny",
+            "name" : "chris",
+            "notifications" : false,
+            "profile_background_color" : "131516",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/346656479/1421338445",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/571650587407732737/ao1SMML9_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/571650587407732737/ao1SMML9_normal.png",
+            "profile_link_color" : "009999",
+            "profile_sidebar_border_color" : "EEEEEE",
+            "profile_sidebar_fill_color" : "EFEFEF",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ccagiao1969",
+            "statuses_count" : 88157,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:33 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                  "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/biRSdCcmbh"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 179732982,
+                  "id_str" : "179732982",
+                  "indices" : [ 3, 16 ],
+                  "name" : "The Daily Edge",
+                  "screen_name" : "TheDailyEdge"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529901018562561,
+         "id_str" : "605529901018562561",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 31,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:17:54 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "huffingtonpost.com/2012/01/18/abo…",
+                     "expanded_url" : "http://www.huffingtonpost.com/2012/01/18/abortion-rates-higher-countries-illegal-study_n_1215045.html",
+                     "indices" : [ 116, 138 ],
+                     "url" : "http://t.co/biRSdCcmbh"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 20,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605528731394953217,
+            "id_str" : "605528731394953217",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 31,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http://t.co/biRSdCcmbh",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Aug 18 00:29:10 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Twitter's most essential comedy newspaper. All tweets hand-crafted. Also on Facebook.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "thedailyedge.net",
+                           "expanded_url" : "http://thedailyedge.net/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/SWztvMOL9H"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 12241,
+               "follow_request_sent" : false,
+               "followers_count" : 102163,
+               "following" : false,
+               "friends_count" : 74642,
+               "geo_enabled" : false,
+               "id" : 179732982,
+               "id_str" : "179732982",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 2453,
+               "location" : "",
+               "name" : "The Daily Edge",
+               "notifications" : false,
+               "profile_background_color" : "811A8A",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/136790900/newspaper3.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/179732982/1431106246",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1109247307/DE-logo.aspx_normal.png",
+               "profile_link_color" : "CC3366",
+               "profile_sidebar_border_color" : "DBE9ED",
+               "profile_sidebar_fill_color" : "E6F6F9",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "TheDailyEdge",
+               "statuses_count" : 40190,
+               "time_zone" : "Eastern Time (US & Canada)",
+               "url" : "http://t.co/SWztvMOL9H",
+               "utc_offset" : -14400,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "RT @TheDailyEdge: Anyone who tells you strict gun laws won't stop gun deaths, but banning abortion WILL stop abortions is wrong twice http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Nov 27 20:20:48 +0000 2009",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Naively believing integrity & decency can one day be possible in politics, public life and journalism. Eater of marzipan. Hashtag games. If u cantB nice B funny",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 3200,
+            "follow_request_sent" : false,
+            "followers_count" : 2617,
+            "following" : false,
+            "friends_count" : 1606,
+            "geo_enabled" : true,
+            "id" : 93040337,
+            "id_str" : "93040337",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 123,
+            "location" : "West Yorkshire, England",
+            "name" : "JE",
+            "notifications" : false,
+            "profile_background_color" : "642D8B",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/56489852/iceland1_058.jpg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/56489852/iceland1_058.jpg",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/596802394618523648/xOTgyC-__normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/596802394618523648/xOTgyC-__normal.jpg",
+            "profile_link_color" : "FF0000",
+            "profile_sidebar_border_color" : "65B0DA",
+            "profile_sidebar_fill_color" : "7AC3EE",
+            "profile_text_color" : "3D1957",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JohnEdginton",
+            "statuses_count" : 211640,
+            "time_zone" : "London",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:32 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 54, 68 ],
+                  "text" : "WearingOrange"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "pic.twitter.com/EypN0JNrm3",
+                  "expanded_url" : "http://twitter.com/Everytown/status/601857431103270912/photo/1",
+                  "indices" : [ 110, 132 ],
+                  "url" : "http://t.co/EypN0JNrm3"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 32708979,
+                  "id_str" : "32708979",
+                  "indices" : [ 3, 16 ],
+                  "name" : "OFA Illinois",
+                  "screen_name" : "OFA_Illinois"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529898958979072,
+         "id_str" : "605529898958979072",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 3,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Tue Jun 02 00:13:01 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 36, 50 ],
+                     "text" : "WearingOrange"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "pic.twitter.com/EypN0JNrm3",
+                     "expanded_url" : "http://twitter.com/Everytown/status/601857431103270912/photo/1",
+                     "indices" : [ 92, 114 ],
+                     "url" : "http://t.co/EypN0JNrm3"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 605527501859725312,
+            "id_str" : "605527501859725312",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "is_quote_status" : false,
+            "lang" : "en",
+            "metadata" : {
+               "iso_language_code" : "en",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 3,
+            "retweeted" : false,
+            "source" : "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+            "text" : "Take a stand on June 2nd—join us in #WearingOrange for National Gun Violence Awareness Day. http://t.co/EypN0JNrm3",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sat Apr 18 01:26:13 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Official Organizing for Action - Illinois account. This account is maintained by volunteers.Follow us for organizing updates and events around important issues.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "barackobama.com",
+                           "expanded_url" : "http://barackobama.com",
+                           "indices" : [ 0, 20 ],
+                           "url" : "http://t.co/FUuDjHeu"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 151,
+               "follow_request_sent" : false,
+               "followers_count" : 14108,
+               "following" : false,
+               "friends_count" : 12304,
+               "geo_enabled" : false,
+               "id" : 32708979,
+               "id_str" : "32708979",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "en",
+               "listed_count" : 522,
+               "location" : "Illinois",
+               "name" : "OFA Illinois",
+               "notifications" : false,
+               "profile_background_color" : "FFFFFF",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000099235367/b899990be08dee6857c5166b43589c5c.png",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000099235367/b899990be08dee6857c5166b43589c5c.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/32708979/1398460791",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000610524746/04ca9638e7393f011bbf9cfd4cf0fda2_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000610524746/04ca9638e7393f011bbf9cfd4cf0fda2_normal.png",
+               "profile_link_color" : "069E8A",
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "FFFFFF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "OFA_Illinois",
+               "statuses_count" : 12402,
+               "time_zone" : "Central Time (US & Canada)",
+               "url" : "http://t.co/FUuDjHeu",
+               "utc_offset" : -18000,
+               "verified" : true
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @OFA_Illinois: Take a stand on June 2nd—join us in #WearingOrange for National Gun Violence Awareness Day. http://t.co/EypN0JNrm3",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 10 18:42:06 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "I ask questions for a living.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 10,
+            "follow_request_sent" : false,
+            "followers_count" : 543,
+            "following" : false,
+            "friends_count" : 1008,
+            "geo_enabled" : true,
+            "id" : 296420552,
+            "id_str" : "296420552",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 8,
+            "location" : "",
+            "name" : "Steve Leopoldo",
+            "notifications" : false,
+            "profile_background_color" : "352726",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme5/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/296420552/1395627752",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/447920869902274560/ejCTdhkJ_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/447920869902274560/ejCTdhkJ_normal.jpeg",
+            "profile_link_color" : "D02B55",
+            "profile_sidebar_border_color" : "829D5E",
+            "profile_sidebar_fill_color" : "99CC33",
+            "profile_text_color" : "3E4415",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "MarginofEra",
+            "statuses_count" : 81,
+            "time_zone" : "Central Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -18000,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Tue Jun 02 00:22:32 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 605529897793138688,
+         "id_str" : "605529897793138688",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "en",
+         "metadata" : {
+            "iso_language_code" : "en",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "Niggas be showin their gun range pictures and be havin holes all over the target lol. Don't flaunt bullshit..",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Mar 21 20:19:01 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 43,
+            "follow_request_sent" : false,
+            "followers_count" : 613,
+            "following" : false,
+            "friends_count" : 594,
+            "geo_enabled" : true,
+            "id" : 269986608,
+            "id_str" : "269986608",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "en",
+            "listed_count" : 1,
+            "location" : "",
+            "name" : "Avon",
+            "notifications" : false,
+            "profile_background_color" : "022330",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/334136011/business-jets.jpg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/334136011/business-jets.jpg",
+            "profile_background_tile" : true,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/599466869247111168/3TPiyh2d_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/599466869247111168/3TPiyh2d_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "A8C7F7",
+            "profile_sidebar_fill_color" : "C0DFEC",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "DoseofSantos",
+            "statuses_count" : 24727,
+            "time_zone" : "Eastern Time (US & Canada)",
+            "url" : null,
+            "utc_offset" : -14400,
+            "verified" : false
+         }
+      }
+   ]
+}
+

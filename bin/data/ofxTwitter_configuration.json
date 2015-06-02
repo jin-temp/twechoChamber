@@ -1,0 +1,1494 @@
+{
+   "search_metadata" : {
+      "completed_in" : 0.051999999999999998,
+      "count" : 10,
+      "max_id" : 605066878868975616,
+      "max_id_str" : "605066878868975616",
+      "next_results" : "?max_id=604920470769684479&q=cat&geocode=41.3851%2C2.1734%2C2km&lang=es&count=10&include_entities=1",
+      "query" : "cat",
+      "refresh_url" : "?since_id=605066878868975616&q=cat&geocode=41.3851%2C2.1734%2C2km&lang=es&include_entities=1",
+      "since_id" : 0,
+      "since_id_str" : "0"
+   },
+   "statuses" : [
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1694589, 41.401850400000001 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 17:42:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 11, 17 ],
+                  "text" : "Berga"
+               },
+               {
+                  "indices" : [ 67, 73 ],
+                  "text" : "Patum"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "regio7.cat/bergueda/2015/…",
+                  "expanded_url" : "http://www.regio7.cat/bergueda/2015/05/31/tirabols-sorpresa-berga-guita-xica/316134.html",
+                  "indices" : [ 74, 96 ],
+                  "url" : "http://t.co/EHV8F8q4mh"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 78301861,
+                  "id_str" : "78301861",
+                  "indices" : [ 101, 113 ],
+                  "name" : "Regió7.cat",
+                  "screen_name" : "diariRegio7"
+               },
+               {
+                  "id" : 200294218,
+                  "id_str" : "200294218",
+                  "indices" : [ 114, 125 ],
+                  "name" : "Dani Perona",
+                  "screen_name" : "daniperona"
+               }
+            ]
+         },
+         "favorite_count" : 1,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401850400000001, 2.1694589 ],
+            "type" : "Point"
+         },
+         "id" : 605066878868975616,
+         "id_str" : "605066878868975616",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "Tirabols a #Berga amb la guita boja el diumenge de Quatre Fuets de #Patum http://t.co/EHV8F8q4mh vía @diariregio7 @daniperona",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1695031999999999, 41.401865100000002 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 17:02:33 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "regio7.cat/esports/2015/0…",
+                  "expanded_url" : "http://www.regio7.cat/esports/2015/05/31/manos-limpias-denuncia-davant-fiscalia/316131.html",
+                  "indices" : [ 101, 123 ],
+                  "url" : "http://t.co/0UDRNdcHOK"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 78301861,
+                  "id_str" : "78301861",
+                  "indices" : [ 128, 140 ],
+                  "name" : "Regió7.cat",
+                  "screen_name" : "diariRegio7"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401865100000002, 2.1695031999999999 ],
+            "type" : "Point"
+         },
+         "id" : 605056783284113408,
+         "id_str" : "605056783284113408",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "Manos Limpias denuncia davantla Fiscalia la xiulada a l´himne espanyol a la final de la Copa del Rei http://t.co/0UDRNdcHOK vía @diariregio7",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun May 31 12:00:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 56, 62 ],
+                  "text" : "Berga"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elperiodico.cat/ca/noticias/ba…",
+                  "expanded_url" : "http://www.elperiodico.cat/ca/noticias/barcelona/llibreria-formiga-dor-tanca-les-portes-4231989",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/mywSt7FCVn"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 145301916,
+                  "id_str" : "145301916",
+                  "indices" : [ 3, 15 ],
+                  "name" : "Ramon Felipó",
+                  "screen_name" : "ramonfelipo"
+               },
+               {
+                  "id" : 1017064375,
+                  "id_str" : "1017064375",
+                  "indices" : [ 17, 28 ],
+                  "name" : "mossèn Tristany",
+                  "screen_name" : "MnTristany"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 604980826124783617,
+         "id_str" : "604980826124783617",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : {
+               "coordinates" : [ 2.1693904000000002, 41.4018935 ],
+               "type" : "Point"
+            },
+            "created_at" : "Sun May 31 08:00:53 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 39, 45 ],
+                     "text" : "Berga"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "elperiodico.cat/ca/noticias/ba…",
+                     "expanded_url" : "http://www.elperiodico.cat/ca/noticias/barcelona/llibreria-formiga-dor-tanca-les-portes-4231989",
+                     "indices" : [ 117, 139 ],
+                     "url" : "http://t.co/mywSt7FCVn"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 1017064375,
+                     "id_str" : "1017064375",
+                     "indices" : [ 0, 11 ],
+                     "name" : "mossèn Tristany",
+                     "screen_name" : "MnTristany"
+                  }
+               ]
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : {
+               "coordinates" : [ 41.4018935, 2.1693904000000002 ],
+               "type" : "Point"
+            },
+            "id" : 604920470769684480,
+            "id_str" : "604920470769684480",
+            "in_reply_to_screen_name" : "MnTristany",
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : 1017064375,
+            "in_reply_to_user_id_str" : "1017064375",
+            "is_quote_status" : false,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : {
+               "attributes" : {},
+               "bounding_box" : {
+                  "coordinates" : [
+                     [
+                        [ 2.0524765999999999, 41.3199988 ],
+                        [ 2.2261223000000001, 41.3199988 ],
+                        [ 2.2261223000000001, 41.468265799999998 ],
+                        [ 2.0524765999999999, 41.468265799999998 ]
+                     ]
+                  ],
+                  "type" : "Polygon"
+               },
+               "contained_within" : [],
+               "country" : "España",
+               "country_code" : "ES",
+               "full_name" : "Barcelona, Catalonia",
+               "id" : "1a27537478dd8e38",
+               "name" : "Barcelona",
+               "place_type" : "city",
+               "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+            },
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text" : "@MnTristany Si Llauder diputat carlí x #Berga fundador de Correu Català la llibreria la Formiga d'Or aixeques el cap http://t.co/mywSt7FCVn",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Tue May 18 16:38:32 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                           "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/Q0AAvkTsfM"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 2362,
+               "follow_request_sent" : false,
+               "followers_count" : 1466,
+               "following" : false,
+               "friends_count" : 1986,
+               "geo_enabled" : true,
+               "id" : 145301916,
+               "id_str" : "145301916",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 28,
+               "location" : "Barcelona - Berga",
+               "name" : "Ramon Felipó",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+               "profile_link_color" : "B30051",
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ramonfelipo",
+               "statuses_count" : 22918,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/Q0AAvkTsfM",
+               "utc_offset" : 7200,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ramonfelipo: @MnTristany Si Llauder diputat carlí x #Berga fundador de Correu Català la llibreria la Formiga d'Or aixeques el cap http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Dec 17 09:15:37 +0000 2012",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Refilant per Catalunya amb pedrenyal, caliquenyo, çotana e cateçisme, puixque la piulada est pus poderosa que lo trabuch.\n#DéuPàtriaFursiPiu #CagonCristinaPuta",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1898,
+            "follow_request_sent" : false,
+            "followers_count" : 1038,
+            "following" : false,
+            "friends_count" : 1021,
+            "geo_enabled" : false,
+            "id" : 1017064375,
+            "id_str" : "1017064375",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 15,
+            "location" : "Ardèvol (Forat Negre)",
+            "name" : "mossèn Tristany",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/788132442/7355ab3915aa5d5d0b3d78d2570de610.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/788132442/7355ab3915aa5d5d0b3d78d2570de610.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1017064375/1398441638",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2986216589/2b84fd8fca1ef60af15c9afd2f16021d_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2986216589/2b84fd8fca1ef60af15c9afd2f16021d_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "MnTristany",
+            "statuses_count" : 4085,
+            "time_zone" : "Belgrade",
+            "url" : null,
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1693799, 41.401888900000003 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 10:18:56 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elsingular.cat/cat/notices/20…",
+                  "expanded_url" : "http://www.elsingular.cat/cat/notices/2015/05/sagarra_vaig_votar_ada_colau_perque_soc_un_irresponsable_109422.php",
+                  "indices" : [ 62, 84 ],
+                  "url" : "http://t.co/aDbnrGVqtc"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401888900000003, 2.1693799 ],
+            "type" : "Point"
+         },
+         "id" : 604955209702494210,
+         "id_str" : "604955209702494210",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "Sagarra: \"Vaig votar Ada Colau perquè sóc un irresponsable\" - http://t.co/aDbnrGVqtc",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1694944, 41.401864600000003 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 10:07:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "vilaweb.cat/noticia/434451…",
+                  "expanded_url" : "http://www.vilaweb.cat/noticia/4344511/20150531/lautor-comunicat-govern-xiulets-ex-redactor-darriba.html",
+                  "indices" : [ 74, 96 ],
+                  "url" : "http://t.co/qZyDxmx6Xb"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 151085945,
+                  "id_str" : "151085945",
+                  "indices" : [ 101, 109 ],
+                  "name" : "VilaWeb",
+                  "screen_name" : "VilaWeb"
+               },
+               {
+                  "id" : 605752037,
+                  "id_str" : "605752037",
+                  "indices" : [ 110, 124 ],
+                  "name" : "Andreu Barnils",
+                  "screen_name" : "andreubarnils"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401864600000003, 2.1694944 ],
+            "type" : "Point"
+         },
+         "id" : 604952388336779264,
+         "id_str" : "604952388336779264",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "L'autor del comunicat del govern sobre els xiulets, ex-redactor d'Arriba? http://t.co/qZyDxmx6Xb vía @VilaWeb @andreubarnils",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1695590999999999, 41.401871900000003 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 09:34:11 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elmati.cat/article/4608/d…",
+                  "expanded_url" : "http://elmati.cat/article/4608/de-prop-o-de-lluny-corpus-pel-juny",
+                  "indices" : [ 38, 60 ],
+                  "url" : "http://t.co/mrulXMICPf"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 145301916,
+                  "id_str" : "145301916",
+                  "indices" : [ 72, 84 ],
+                  "name" : "Ramon Felipó",
+                  "screen_name" : "ramonfelipo"
+               },
+               {
+                  "id" : 142339569,
+                  "id_str" : "142339569",
+                  "indices" : [ 89, 103 ],
+                  "name" : "El Matí Digital",
+                  "screen_name" : "elmatidigital"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401871900000003, 2.1695590999999999 ],
+            "type" : "Point"
+         },
+         "id" : 604943950017908736,
+         "id_str" : "604943950017908736",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "\"De prop o de lluny, Corpus pel juny\" http://t.co/mrulXMICPf article de @ramonfelipo via @elmatidigital",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1693958000000002, 41.401911699999999 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 09:18:15 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 38, 44 ],
+                  "text" : "Patum"
+               },
+               {
+                  "indices" : [ 46, 52 ],
+                  "text" : "Berga"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "regio7.cat/blogs/felipo-0…",
+                  "expanded_url" : "http://www.regio7.cat/blogs/felipo-039-s-newsletter/de-prop-o-de-lluny-corpus-pel-juny.html",
+                  "indices" : [ 54, 76 ],
+                  "url" : "http://t.co/IbewsGuYhp"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 78301861,
+                  "id_str" : "78301861",
+                  "indices" : [ 82, 94 ],
+                  "name" : "Regió7.cat",
+                  "screen_name" : "diariRegio7"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401911699999999, 2.1693958000000002 ],
+            "type" : "Point"
+         },
+         "id" : 604939941207003136,
+         "id_str" : "604939941207003136",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "De prop o de lluny, Corpus pel juny, \n#Patum\n #Berga\n http://t.co/IbewsGuYhp \nVia @diariRegio7",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1694754999999999, 41.401881600000003 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 08:06:56 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 41, 47 ],
+                  "text" : "Berga"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elperiodico.cat/ca/noticias/ba…",
+                  "expanded_url" : "http://www.elperiodico.cat/ca/noticias/barcelona/llibreria-formiga-dor-tanca-les-portes-4231989",
+                  "indices" : [ 118, 140 ],
+                  "url" : "http://t.co/mywSt7FCVn"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 99929342,
+                  "id_str" : "99929342",
+                  "indices" : [ 0, 16 ],
+                  "name" : "Partido Carlista",
+                  "screen_name" : "partidocarlista"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401881600000003, 2.1694754999999999 ],
+            "type" : "Point"
+         },
+         "id" : 604921991104196608,
+         "id_str" : "604921991104196608",
+         "in_reply_to_screen_name" : "partidocarlista",
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : 99929342,
+         "in_reply_to_user_id_str" : "99929342",
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "@partidocarlista Llauder diputat carlí x #Berga fundà el Correu Català i la llibreria la Formiga d'Or aixeques el cap http://t.co/mywSt7FCVn",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1694110000000002, 41.401891999999997 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 08:03:43 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 38, 44 ],
+                  "text" : "Berga"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elperiodico.cat/ca/noticias/ba…",
+                  "expanded_url" : "http://www.elperiodico.cat/ca/noticias/barcelona/llibreria-formiga-dor-tanca-les-portes-4231989",
+                  "indices" : [ 118, 140 ],
+                  "url" : "http://t.co/mywSt7FCVn"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 73076641,
+                  "id_str" : "73076641",
+                  "indices" : [ 0, 10 ],
+                  "name" : "Carlistas",
+                  "screen_name" : "Carlistas"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.401891999999997, 2.1694110000000002 ],
+            "type" : "Point"
+         },
+         "id" : 604921184518565888,
+         "id_str" : "604921184518565888",
+         "in_reply_to_screen_name" : "Carlistas",
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : 73076641,
+         "in_reply_to_user_id_str" : "73076641",
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "@Carlistas Si Llauder diputat carlí x #Berga fundador de Correu Català i la llibreria la Formiga d'Or aixeques el cap http://t.co/mywSt7FCVn",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 2.1693904000000002, 41.4018935 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun May 31 08:00:53 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 39, 45 ],
+                  "text" : "Berga"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elperiodico.cat/ca/noticias/ba…",
+                  "expanded_url" : "http://www.elperiodico.cat/ca/noticias/barcelona/llibreria-formiga-dor-tanca-les-portes-4231989",
+                  "indices" : [ 117, 139 ],
+                  "url" : "http://t.co/mywSt7FCVn"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 1017064375,
+                  "id_str" : "1017064375",
+                  "indices" : [ 0, 11 ],
+                  "name" : "mossèn Tristany",
+                  "screen_name" : "MnTristany"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.4018935, 2.1693904000000002 ],
+            "type" : "Point"
+         },
+         "id" : 604920470769684480,
+         "id_str" : "604920470769684480",
+         "in_reply_to_screen_name" : "MnTristany",
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : 1017064375,
+         "in_reply_to_user_id_str" : "1017064375",
+         "is_quote_status" : false,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524765999999999, 41.3199988 ],
+                     [ 2.2261223000000001, 41.3199988 ],
+                     [ 2.2261223000000001, 41.468265799999998 ],
+                     [ 2.0524765999999999, 41.468265799999998 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "@MnTristany Si Llauder diputat carlí x #Berga fundador de Correu Català la llibreria la Formiga d'Or aixeques el cap http://t.co/mywSt7FCVn",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue May 18 16:38:32 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "comunitats.regio7.cat/blocs/rfelipo",
+                        "expanded_url" : "http://comunitats.regio7.cat/blocs/rfelipo",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q0AAvkTsfM"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 2362,
+            "follow_request_sent" : false,
+            "followers_count" : 1466,
+            "following" : false,
+            "friends_count" : 1986,
+            "geo_enabled" : true,
+            "id" : 145301916,
+            "id_str" : "145301916",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 28,
+            "location" : "Barcelona - Berga",
+            "name" : "Ramon Felipó",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/494546414613970945/0h12JeE7.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/145301916/1414518742",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/560399130187419648/f4RmxuGP_normal.jpeg",
+            "profile_link_color" : "B30051",
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ramonfelipo",
+            "statuses_count" : 22918,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/Q0AAvkTsfM",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      }
+   ]
+}
+
