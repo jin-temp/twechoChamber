@@ -1,5 +1,5 @@
 # twechoChamber
-twechoChamber is an openFrameworks application that uses RFID technology to raise awareness on the spectrum of opinions around various prevalent social issues. tEchoChamber is meant to act as a window outside of our everyday echo chambers. 
+twechoChamber is an openFrameworks application that uses RFID technology to raise awareness on the spectrum of opinions around various prevalent social issues. twechoChamber is meant to act as a window outside of our everyday echo chambers. 
 
 Designed in the vain of popular open-source card games Cards Against Humanity and The Metagame, twechoCamber's "controllers" are RFID cards with icons representing different social problems facing today's society. This version addresses reproductive health, the war on drugs, guns, religious freedom, climate change, mental illness, government oversight, immigration, big data, and healthcare. When the player waves a card by the RFID reader, the application scrapes Twitter for specific keywords related to the issue. Some of the most recent tweets about the topic are displayed, along with a question meant to challenge the player to consider their true opinion on these matters. 
 
